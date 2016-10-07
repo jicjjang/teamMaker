@@ -41,7 +41,7 @@ user$> npm install
 ##### 2. command >> #####
 
 ~~~bash
-user$> npm index.js <file_name>    
+user$> npm run start -- ./exMember.json 		// file_name just possible using json file. 
 ~~~
 
 ##### 3. maked random team (team.xlsx) >> #####
