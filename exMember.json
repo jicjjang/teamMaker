@@ -1,0 +1,19 @@
+{
+	"result": [
+		{
+			"leader": "aaa",
+			"member": ["d", "e", "f", "g"],
+			"newMember": ["h", "i"]
+		},
+		{
+			"leader": "bbb",
+			"member": ["j", "j"],
+			"newMember": ["l", "m", "n", "o"]
+		},
+		{
+			"leader": "ccc",
+			"member": ["p", "q", "r"],
+			"newMember": []
+		}
+	]
+}
